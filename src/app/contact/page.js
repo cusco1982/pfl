@@ -1,14 +1,33 @@
 import React from 'react'
+import styles from '../page.module.css'
+
+
+
 
 export default function page() {
 
 
+
+
     return (
-        <div>
+        <div className={styles.main}>
+
+
+
+
 
             <header>Contact</header>
 
-            <p>contact page</p>
+
+
+
+            <div>
+
+
+                contact page body
+
+
+            </div>
 
 
 
@@ -18,4 +37,4 @@ export default function page() {
 
         </div>
     )
-}
+};
