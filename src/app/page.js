@@ -11,9 +11,9 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
 
-// import post1 from '../components/blog-post.1.md';
-// import post2 from '../components/blog-post.2.md';
-// import post3 from '../components/blog-post.3.md';
+// import post1 from './blog-post.1.md';
+// import post2 from './blog-post.2.md';
+// import post3 from './blog-post.3.md';
 
 
 
@@ -97,7 +97,14 @@ export default function Home() {
 
 
       <Grid container spacing={5} sx={{ mt: 3 }}>
-        {/* <Main title="From the firehose" posts={posts} /> */}
+
+
+        <Main title="From the firehose"
+        //  posts={posts}
+         />
+
+
+
         <Sidebar
           title={sidebar.title}
           description={sidebar.description}
