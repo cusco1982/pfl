@@ -2,6 +2,10 @@
 
 This is a simple [Next.js](https://nextjs.org/) portfolio project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+![alt text](/public/pfl-img.png)
+
+
 ## Getting Started
 
 First, run the development server:
@@ -26,6 +30,3 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-
-![alt text](/public/pfl-img.png)
