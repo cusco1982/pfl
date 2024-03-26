@@ -38,7 +38,7 @@ function Main(props) {
 
         <div>
           <h1>Sample blog post</h1>
-          <header>April 1 20202 by Olivier</header>
+          <header>April 1 2020 by Olivier</header>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae praesentium exercitationem in suscipit corporis autem, quidem optio cupiditate reprehenderit. Eaque nostrum ab possimus accusamus expedita quo odio eum blanditiis dolor sit earum vel reprehenderit repellendus corporis consequuntur, similique magnam iste recusandae delectus eius aspernatur non dolores. Consequatur qui rem perspiciatis!</p>
         </div>
 
@@ -46,7 +46,7 @@ function Main(props) {
 
         <div>
           <h1>Sample blog post</h1>
-          <header>April 1 20202 by Olivier</header>
+          <header>April 1 2020 by Olivier</header>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae praesentium exercitationem in suscipit corporis autem, quidem optio cupiditate reprehenderit. Eaque nostrum ab possimus accusamus expedita quo odio eum blanditiis dolor sit earum vel reprehenderit repellendus corporis consequuntur, similique magnam iste recusandae delectus eius aspernatur non dolores. Consequatur qui rem perspiciatis!</p>
         </div>
 
@@ -55,7 +55,7 @@ function Main(props) {
 
         <div>
           <h1>Sample blog post</h1>
-          <header>April 1 20202 by Olivier</header>
+          <header>April 1 2020 by Olivier</header>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae praesentium exercitationem in suscipit corporis autem, quidem optio cupiditate reprehenderit. Eaque nostrum ab possimus accusamus expedita quo odio eum blanditiis dolor sit earum vel reprehenderit repellendus corporis consequuntur, similique magnam iste recusandae delectus eius aspernatur non dolores. Consequatur qui rem perspiciatis!</p>
         </div>
 
@@ -79,7 +79,7 @@ function Main(props) {
 }
 
 Main.propTypes = {
-  posts: PropTypes.arrayOf(PropTypes.string).isRequired,
+  // posts: PropTypes.arrayOf(PropTypes.string).isRequired,
   title: PropTypes.string.isRequired,
 };
 
