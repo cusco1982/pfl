@@ -26,9 +26,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ![alt text](/public/pfl-img.png)
 
-#
-#
-
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
